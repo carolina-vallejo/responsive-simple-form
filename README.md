@@ -9,7 +9,7 @@ http://carolinavallejo.x10.mx/form_rsp_captcha/
 
 ## Browser support
 
-+ All other modern browsers
++ All modern browsers
 
 ## License
 
